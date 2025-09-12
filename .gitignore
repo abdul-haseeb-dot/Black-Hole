@@ -1,0 +1,17 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled binary folder
+game/
+
+# Ignore object files folder
+object/
+
+# Common C++ build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.out
