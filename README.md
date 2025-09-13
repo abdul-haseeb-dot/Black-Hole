@@ -29,7 +29,7 @@ Black Hole is a tactical number placement game that combines strategic thinking 
 
   <img width="1098" height="597" alt="image" src="https://github.com/user-attachments/assets/347ad477-4c62-4a2d-b355-b41d2feb7124" />
 
-3. **Game Screen**: 
+2. **Game Screen**: 
    - Current player is displayed at the top
    - Hover over empty holes to see placement preview
    - Click on an empty hole to place your number
@@ -37,7 +37,7 @@ Black Hole is a tactical number placement game that combines strategic thinking 
 
   <img width="1098" height="597" alt="image" src="https://github.com/user-attachments/assets/053a5dda-ff1c-47a8-882d-36a517ce2f97" />
      
-4. **Statistics Screen**: View final scores and winner declaration
+3. **Statistics Screen**: View final scores and winner declaration
 
   <img width="1098" height="597" alt="image" src="https://github.com/user-attachments/assets/8c5c6c1f-e4a1-4fd9-ad62-44b59af2bf70" />
 
