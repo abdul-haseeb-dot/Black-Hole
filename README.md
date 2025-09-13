@@ -148,9 +148,12 @@ make clean
 
 ### Adjacency Pattern
 The black hole checks six adjacent positions in a hexagonal pattern:
-- Top-left, Top-right
-- Left, Right  
-- Bottom-left, Bottom-right
+- Top-left
+- Top-right
+- Left
+- Right  
+- Bottom-left
+- Bottom-right
 
 ### Scoring System
 - Only numbers placed by each player in holes adjacent to the black hole count toward their score
